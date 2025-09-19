@@ -1,4 +1,10 @@
-LOAD RAYFIELD UI
+-- ========================
+-- FINAL FULL: RAYFIELD UI + AUTO SUMMIT + AUTO WALK (Bypass + Maps) + MISC
+-- Generated for the user — includes all mounts (Atin, Cing, Sumbing, Hanami, Aduh, Gampil, Yahayuk, Owashu, Pasang Sigma, Labirin)
+-- WARNING: This script executes remote code via game:HttpGet and uses loadstring. Review before running.
+-- ========================
+
+-- LOAD RAYFIELD UI
 local Rayfield = loadstring(game:HttpGet("https://sirius.menu/rayfield"))()
 
 local Window = Rayfield:CreateWindow({
