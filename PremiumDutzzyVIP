@@ -25,11 +25,11 @@ local Window = Rayfield:CreateWindow({
     KeySettings = {
         Title = " Premium",
         Subtitle = "Key System",
-        Note = "Join Discord for Key",
+        Note = "Join Discord for Key Or Buy Premium At Telegram @DUTZVIP",
         FileName = "_Key",
         SaveKey = true,
         GrabKeyFromSite = false,
-        Key = { "PREMIUM-1234" } -- ganti sesuai kebutuhan
+        Key = { "Prem" } -- ganti sesuai kebutuhan
     }
 })
 
