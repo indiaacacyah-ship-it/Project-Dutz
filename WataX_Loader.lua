@@ -11,7 +11,7 @@ local speed = 16
 local resumeData = { pointIndex = 1 }
 
 -- ⚠️ Ganti URL ini sesuai lokasi file WataX_Path.json di GitHub kamu (raw link)
-local url = "https://raw.githubusercontent.com/username/repo/main/WataX_Path.json"
+local url = "https://raw.githubusercontent.com/indiaacacyah-ship-it/Project-Dutz/refs/heads/main/WataX_Path.json"
 
 -- Load JSON waypoints
 local success, data = pcall(function()
